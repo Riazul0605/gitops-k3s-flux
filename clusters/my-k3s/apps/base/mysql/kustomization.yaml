@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
   - mysql-service.yaml
   - mysql-statefulset.yaml
+  - mysql-secret.sops.yaml
