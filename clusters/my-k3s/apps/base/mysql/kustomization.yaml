@@ -4,3 +4,4 @@ resources:
   - mysql-secret.sops.yaml
   - mysql-statefulset.yaml
   - mysql-service.yaml
+  - mysql-secret.yaml
